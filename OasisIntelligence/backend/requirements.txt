@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+cloud-sql-python-connector[pymysql]
+pymysql
+pydantic
